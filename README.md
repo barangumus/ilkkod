@@ -1,3 +1,3 @@
 # ilkkod
-MERHABALAR , Ben BARAN GÜMÜŞ 
+MERHABALAR , Ben Baran Gümüş 29 Mayıs Üniversitesi Öğrencisiyim
 Bu repository benim ilk java ve githup ödevimdir ...
