@@ -1,12 +1,11 @@
 public class Main {
     public static void main(String[] args) {
+        
         long toplam = 0;
-
-        // 1'den 20'ye kadar olan sayıları döngüye alıyoruz
+        
         for (int i = 1; i <= 20; i++) {
-            // Sayının çift olup olmadığını kontrol ediyoruz
-            if (i % 2 == 0) {
-                // Çift sayının küpünü alıp toplama ekliyoruz
+            
+            if (i % 2 == 0) {               
                 toplam += (long) Math.pow(i, 3);
             }
         }
