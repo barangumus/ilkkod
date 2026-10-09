@@ -1,0 +1,3 @@
+# ilkkod
+MERHABALAR , Ben BARAN GÜMÜŞ 
+Bu repository benim ilk java ve githup ödevimdir ...

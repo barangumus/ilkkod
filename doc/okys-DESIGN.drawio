@@ -1,0 +1,79 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Sayfa-1" id="uO8wfdR7M7Tka50JpxR4">
+    <mxGraphModel dx="2898" dy="1317" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="72YhfPaMCDq9i3a-ZyWO-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="KÜTÜPHANE ÜYESİ&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="70" x="-30" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="72YhfPaMCDq9i3a-ZyWO-3" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="K" vertex="1">
+          <mxGeometry height="770" width="250" x="470" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="72YhfPaMCDq9i3a-ZyWO-12" parent="72YhfPaMCDq9i3a-ZyWO-3" style="ellipse;whiteSpace=wrap;html=1;" value="KİTAP ARA" vertex="1">
+          <mxGeometry height="70" width="140" x="50" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="72YhfPaMCDq9i3a-ZyWO-13" parent="72YhfPaMCDq9i3a-ZyWO-3" style="ellipse;whiteSpace=wrap;html=1;" value="SİSTEME GİRİŞ YAP" vertex="1">
+          <mxGeometry height="70" width="140" x="50" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="72YhfPaMCDq9i3a-ZyWO-14" parent="72YhfPaMCDq9i3a-ZyWO-3" style="ellipse;whiteSpace=wrap;html=1;" value="SÜRE UZAT" vertex="1">
+          <mxGeometry height="70" width="140" x="50" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="72YhfPaMCDq9i3a-ZyWO-15" parent="72YhfPaMCDq9i3a-ZyWO-3" style="ellipse;whiteSpace=wrap;html=1;" value="KİTAP ÖDÜNÇ AL" vertex="1">
+          <mxGeometry height="70" width="140" x="50" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="72YhfPaMCDq9i3a-ZyWO-18" parent="72YhfPaMCDq9i3a-ZyWO-3" style="ellipse;whiteSpace=wrap;html=1;" value="ÖDÜNÇ TALEBİNİ ONAYLA" vertex="1">
+          <mxGeometry height="70" width="140" x="50" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="72YhfPaMCDq9i3a-ZyWO-19" parent="72YhfPaMCDq9i3a-ZyWO-3" style="ellipse;whiteSpace=wrap;html=1;" value="KİTAP EKLE" vertex="1">
+          <mxGeometry height="70" width="140" x="50" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="72YhfPaMCDq9i3a-ZyWO-6" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="KÜTÜPHANE GÖREVLİSİ&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="70" x="-40" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="72YhfPaMCDq9i3a-ZyWO-17" edge="1" parent="1" source="72YhfPaMCDq9i3a-ZyWO-1" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" target="72YhfPaMCDq9i3a-ZyWO-12" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="300" y="410" as="sourcePoint" />
+            <mxPoint x="350" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="72YhfPaMCDq9i3a-ZyWO-20" edge="1" parent="1" source="72YhfPaMCDq9i3a-ZyWO-6" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="72YhfPaMCDq9i3a-ZyWO-12" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="180" y="520" as="sourcePoint" />
+            <mxPoint x="230" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="72YhfPaMCDq9i3a-ZyWO-21" edge="1" parent="1" source="72YhfPaMCDq9i3a-ZyWO-6" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" target="72YhfPaMCDq9i3a-ZyWO-13" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="180" y="520" as="sourcePoint" />
+            <mxPoint x="230" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="72YhfPaMCDq9i3a-ZyWO-22" edge="1" parent="1" source="72YhfPaMCDq9i3a-ZyWO-6" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="72YhfPaMCDq9i3a-ZyWO-18" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="180" y="520" as="sourcePoint" />
+            <mxPoint x="230" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="72YhfPaMCDq9i3a-ZyWO-23" edge="1" parent="1" source="72YhfPaMCDq9i3a-ZyWO-6" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" target="72YhfPaMCDq9i3a-ZyWO-19" value="">
+          <mxGeometry height="50" relative="1" width="50" x="-0.002" as="geometry">
+            <mxPoint x="180" y="520" as="sourcePoint" />
+            <mxPoint x="230" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="72YhfPaMCDq9i3a-ZyWO-24" edge="1" parent="1" source="72YhfPaMCDq9i3a-ZyWO-1" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" target="72YhfPaMCDq9i3a-ZyWO-15" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="180" y="520" as="sourcePoint" />
+            <mxPoint x="230" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="72YhfPaMCDq9i3a-ZyWO-25" edge="1" parent="1" source="72YhfPaMCDq9i3a-ZyWO-1" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="72YhfPaMCDq9i3a-ZyWO-13" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="180" y="520" as="sourcePoint" />
+            <mxPoint x="230" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
